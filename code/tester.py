@@ -20,7 +20,7 @@ class Tester():
         files = self.convert_files("mm")
         
         # Number of locations to be tested
-        n_loc = [7]
+        n_loc = [1,2,3,4,5,6,7,8,9,10]
         prob_move = [0.25,0.5,0.75,1]
         sample_size = 0 + 1
         
